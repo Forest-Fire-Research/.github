@@ -13,6 +13,8 @@
 
 # Welcome to WIRE-AI 👋
 
+[![wire-ai logo](https://raw.githubusercontent.com/Forest-Fire-Research/website-assets/refs/heads/main/assets/logo/logo192.png)](https://wireai.onrender.com/)
+
 Our group, WIldfire REsearch - Analytics Initiative (WIRE-AI), has been working on an NSERC Alliance Mission project since 2022. 
 Our goal is to assist forest fire researchers and practitioners with machine learning/deep learning (ML/DL) models, tools, frameworks, and advanced datasets. 
 These resources enable the application of data-driven techniques to model forest fire growth, predict forest fire risk, and estimate burnt areas. 
